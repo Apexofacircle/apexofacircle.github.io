@@ -52,7 +52,7 @@ footer {
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: #04AA6D;
+  background-color: #7b01c2;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -90,4 +90,4 @@ footer {
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #59008d;}
