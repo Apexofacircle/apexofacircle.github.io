@@ -29,7 +29,7 @@
   transform: translate(-50%, -50%);
   color: black;
   text-emphasis-color: black;
-  border: 15px solid rgb(138, 138, 138);
+  border: 150px solid rgb(255, 0, 0);
 }
 
 .topnav a {
