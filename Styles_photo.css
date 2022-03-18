@@ -4,6 +4,13 @@
   overflow: hidden;
 }
 
+.topcontain
+{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
 .head
 {
   display: flex;
@@ -12,6 +19,13 @@
   max-width: 45%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .topnav a {
