@@ -53,6 +53,7 @@ footer {
 	padding: auto;
 	text-align: center;
 	text-decoration-color: white;
+	text-decoration: none;
 }
 .row {
 	display: flex;
