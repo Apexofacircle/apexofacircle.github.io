@@ -168,5 +168,7 @@
 
 .photo
 {
-  size: 1in;
+  max-width: 80vw;
+  max-height: 80vh;
+  padding: auto;
 }
